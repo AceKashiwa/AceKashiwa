@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a student and tech enthusiast, constantly expl
 
 ## 📫 Connect with Me
 - [Bilibili](https://space.bilibili.com/478710387)
-- [![Luogu](https://api.jerryz.com.cn/practice?id=649254)](https://www.luogu.com.cn/user/649254)
+- [![Luogu](https://api.jerryz.com.cn/practice?id=649254&dark_mode=true)](https://www.luogu.com.cn/user/649254)
 
 Thanks for visiting! Have a great day! 😊
 
