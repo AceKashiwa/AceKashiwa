@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://api.likepoems.com/counter/get/@AceKashiwa" alt="AceKashiwa" />
+<img src="https://api.likepoems.com/counter/get/@AceKashiwa?theme=asoul" alt="AceKashiwa" />
 <!---
 AceKashiwa/AceKashiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
