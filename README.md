@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://img.paulzzh.com/touhou/random)
+<img src="https://api.likepoems.com/counter/get/@AceKashiwa" alt="AceKashiwa" />
 <!---
 AceKashiwa/AceKashiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
