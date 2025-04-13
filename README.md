@@ -1,32 +1,45 @@
-# Hello, I'm AceKashiwa! 👋
+# 🌟 Hi there 👋
 
-Welcome to my GitHub profile! I'm a student and tech enthusiast, constantly exploring and learning new things. Here's a bit about me:
+## Welcome to my GitHub profile! 💻
 
----
-
-## 🚀 About Me
-- 🌱 I'm currently diving deep into Verilog and wireless network technology, laying a solid foundation for future projects!
-- 🤖 I'm working on a multifunctional group chat bot and building a cool personal static website. These projects are not only fun but also significantly improve my coding skills.
-- 🎯 My goal is to master the open-source project YOLO for image recognition to design a smart supermarket robot, which will revolutionize my learning and life!
-- 🖥️ Conducting rigorous model training on WSL to keep enhancing my skills.
-- 🎮 In my spare time, I love playing Princess Connect! Re:Dive and Clash Royale, which help me relax and spark creativity.
-- 🐞 I have a passion for insects, especially ground beetles. Observing these little creatures brings me immense joy.
-- 📚 I aim to fully utilize GitHub Education resources to boost my coding skills, solve real-life problems, and achieve some super cool things.
+I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, exploring, and creating innovative projects. 🌱
 
 ---
 
-## 🛠️ Technologies and Tools I'm Learning
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-007ACC?logo=verilog&logoColor=white)
-- **Frameworks:** ![YOLO](https://img.shields.io/badge/-YOLO-FF6F00?logo=yolov5&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![WSL](https://img.shields.io/badge/-WSL-0A5DAB?logo=linux&logoColor=white)
+## 🌟 About Me
+- 🌱 Currently learning and working on **Verilog** and **wireless network technology**.
+- 🤖 Developing a **multifunctional group chat bot** and a **personal static website**.
+- 🎯 Aiming to master **YOLO** for image recognition to design a **smart supermarket robot**.
+- 🖥️ Conducting model training on **WSL** to enhance skills.
+- 🎮 Enjoying games like **Princess Connect! Re:Dive** and **Clash Royale** in my free time.
+- 🐞 Passionate about **insects**, especially **ground beetles**.
+- 🎓 Leveraging **GitHub Education resources** to tackle real-life problems.
+
+---
+
+## 🚀 Technologies and Tools
+- **Languages:** 
+  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
+  [![Verilog](https://img.shields.io/badge/-Verilog-007ACC?logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
+- **Frameworks:** 
+  [![YOLO](https://img.shields.io/badge/-YOLO-FF6F00?logo=yolov5&logoColor=white)](https://github.com/ultralytics/yolov5)
+- **Tools:** 
+  [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com) 
+  [![WSL](https://img.shields.io/badge/-WSL-0A5DAB?logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 
 ---
 
 ## 📦 Projects
-Here are some of the cool projects I'm working on:
-1. **Multifunctional Group Chat Bot**: Automating tasks and making group chats more fun and productive!
-2. **Personal Static Website**: Showcasing my portfolio and sharing my journey.
-3. **Smart Supermarket Robot**: Leveraging YOLO for image recognition to design an innovative solution for retail.
+1. **Multifunctional Group Chat Bot**: Automates tasks and makes group chats more fun!
+2. **Personal Static Website**: A portfolio to share my journey.
+3. **Smart Supermarket Robot**: Leveraging YOLO for innovative retail solutions.
+
+---
+
+## 🏆 Highlighted Achievements
+- 🛠️ Built and debugged multiple **Verilog-based projects**.
+- 📸 Harnessed **YOLO** for experimental image recognition tasks.
+- 🌐 Created a vibrant GitHub profile showcasing diverse projects.
 
 ---
 
@@ -36,24 +49,10 @@ Here are some of the cool projects I'm working on:
 
 ---
 
-## 🤝 Contributions
-Contributions are always welcome! Here's how you can contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Submit a pull request with a detailed explanation.
+## 🐍 Contribution Snake
+![Snake Animation](https://gh.jerryz.com.cn/snake)
 
----
-
-## 📫 Connect with Me
-- [Bilibili](https://space.bilibili.com/478710387)
-- [![Luogu](https://api.jerryz.com.cn/about?id=649254&hide_title=true&dark_mode=true)](https://www.luogu.com.cn/user/649254)
-
----
-
-## 🏆 Achievements
-- Completed multiple Verilog-based projects with extensive debugging.
-- Harnessed YOLO for experimental image recognition tasks.
-- Built a vibrant GitHub profile with diverse personal and collaborative projects.
+![Contribution Calendar](https://gh.jerryz.com.cn/calendar)
 
 ---
 
