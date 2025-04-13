@@ -46,7 +46,7 @@ Contributions are always welcome! Here's how you can contribute:
 
 ## 📫 Connect with Me
 - [Bilibili](https://space.bilibili.com/478710387)
-- [![Luogu](https://api.jerryz.com.cn/about?id=649254)](https://www.luogu.com.cn/user/649254)
+- [![Luogu](https://api.jerryz.com.cn/about?id=649254&hide_title=true&dark_mode=true)](https://www.luogu.com.cn/user/649254)
 
 ---
 
