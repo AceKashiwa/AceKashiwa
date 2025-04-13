@@ -1,8 +1,8 @@
-# 🌟 Hi there 👋
+# 🌟 Hi there 👋 
 
-## Welcome to my GitHub profile! 💻
+## Welcome to my GitHub profile! 💻 
 
-I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, exploring, and creating innovative projects. 🌱
+I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, exploring, and creating innovative projects. 🌱 
 
 ---
 
@@ -18,21 +18,31 @@ I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, explo
 ---
 
 ## 🚀 Technologies and Tools
-- **Languages:** 
-  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
-  [![Verilog](https://img.shields.io/badge/-Verilog-007ACC?logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
-- **Frameworks:** 
-  [![YOLO](https://img.shields.io/badge/-YOLO-FF6F00?logo=yolov5&logoColor=white)](https://github.com/ultralytics/yolov5)
-- **Tools:** 
-  [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com) 
-  [![WSL](https://img.shields.io/badge/-WSL-0A5DAB?logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+  ![Verilog](https://img.shields.io/badge/-Verilog-007ACC?logo=verilog&logoColor=white)
+
+- **Frameworks:**  
+  ![YOLO](https://img.shields.io/badge/-YOLO-FF6F00?logo=yolov5&logoColor=white)
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+  ![WSL](https://img.shields.io/badge/-WSL-0A5DAB?logo=linux&logoColor=white)
 
 ---
 
 ## 📦 Projects
-1. **Multifunctional Group Chat Bot**: Automates tasks and makes group chats more fun!
-2. **Personal Static Website**: A portfolio to share my journey.
-3. **Smart Supermarket Robot**: Leveraging YOLO for innovative retail solutions.
+1. **Multifunctional Group Chat Bot**  
+   Automates tasks and makes group chats more fun!  
+   [View Project](https://github.com/AceKashiwa/ILY.Bot)
+
+2. **Personal Static Website**  
+   A portfolio to share my journey.  
+   [View Project](https://github.com/AceKashiwa/AceKashiwa.github.io)
+
+3. **Smart Supermarket Robot**  
+   Leveraging YOLO for innovative retail solutions.  
+   [View Project](#)
 
 ---
 
@@ -45,6 +55,12 @@ I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, explo
 
 ---
 
+## 💡 Fun Facts
+- 🐞 I’m fascinated by nature, especially tiny creatures like **ground beetles**.
+- 🌏 Always eager to explore new technologies and ideas.
+
+---
+
 Thanks for visiting! Have a great day! 😊
 
-<img src="https://api.likepoems.com/counter/get/@AceKashiwa?theme=asoul" alt="AceKashiwa" />
+![Profile Views Counter](https://api.likepoems.com/counter/get/@AceKashiwa?theme=asoul)
