@@ -36,16 +36,7 @@ I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, explo
 
 ---
 
-## 🏆 Highlighted Achievements
-- 🛠️ Built and debugged multiple **Verilog-based projects**.
-- 📸 Harnessed **YOLO** for experimental image recognition tasks.
-- 🌐 Created a vibrant GitHub profile showcasing diverse projects.
-
----
-
 ## 📊 GitHub Stats
-![AceKashiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceKashiwa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceKashiwa&layout=compact&theme=radical)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AceKashiwa/AceKashiwa/blob/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AceKashiwa/AceKashiwa/blob/output/github-contribution-grid-snake.svg" />
