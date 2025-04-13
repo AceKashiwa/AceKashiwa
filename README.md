@@ -49,13 +49,6 @@ I'm **AceKashiwa**, a student and tech enthusiast passionate about coding, explo
 
 ---
 
-## 🐍 Contribution Snake
-![Snake Animation](https://gh.jerryz.com.cn/snake)
-
-![Contribution Calendar](https://gh.jerryz.com.cn/calendar)
-
----
-
 Thanks for visiting! Have a great day! 😊
 
 <img src="https://api.likepoems.com/counter/get/@AceKashiwa?theme=asoul" alt="AceKashiwa" />
