@@ -30,5 +30,3 @@ Embedded systems developer and student, focused on microcontroller-based hardwar
 </picture>
 
 ---
-
-![Profile Views Counter](https://api.likepoems.com/counter/get/@AceKashiwa?theme=asoul)
